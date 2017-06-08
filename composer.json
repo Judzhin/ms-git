@@ -1,0 +1,13 @@
+{
+    "name": "msbios/git",
+    "authors": [
+        {
+            "name": "Judzhin Miles",
+            "email": "info@msbios.com"
+        }
+    ],
+    "require": {},
+    "scripts": {
+        "log-inline": "git log --pretty=oneline"
+    }
+}
